@@ -3,3 +3,4 @@
 7.some changes and rebase on master ...
 
 
+commit 1 for squash
